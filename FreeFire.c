@@ -85,7 +85,7 @@ void inserirItem(Item mochila[], int *total) {
     printf("Item cadastrado com sucesso!\n");
 }
 
-// Função para remover um item pelo nome
+
 void removerItem(Item mochila[], int *total) {
     char nomeBusca[30];
     int encontrado = 0;
